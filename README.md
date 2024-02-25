@@ -12,3 +12,5 @@ file io (non-delimited, csv, json)
 manipulating dates (less common at a-level: times)
 recursion
 OOP
+
+link: https://www.youtube.com/channel/UCA0Ylh2-FZF3fktzLzX7JMw
